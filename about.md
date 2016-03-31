@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Об авторе
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Об авторе
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cranky4.89@gmail.com](mailto:cranky4.89@gmail.com)
